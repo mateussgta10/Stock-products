@@ -2,7 +2,7 @@
 
 # Techs: 
 Backend -> Node JS<br>
-Fronend -> React JS
+Frontend -> React JS
 
 
 ![Screenshot from 2020-07-25 14-00-38](https://user-images.githubusercontent.com/49589069/88462127-65a98b80-ce7f-11ea-896c-f040304ba2f2.png)
